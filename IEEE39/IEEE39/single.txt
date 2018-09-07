@@ -1,0 +1,42 @@
+单个网络输出对比结果：序列攻击优于共时攻击
+result: 3  13   sim: 37  sequence: 0
+result: 6  7   sim: 37  sequence: 0
+result: 7  8   sim: 35  sequence: 0
+result: 8  7   sim: 35  sequence: 0
+result: 9  12   sim: 34  sequence: 1
+result: 12  9   sim: 34  sequence: 0
+result: 12  13   sim: 37  sequence: 0
+result: 13  12   sim: 37  sequence: 12
+result: 15  0   sim: 2  sequence: 0
+result: 15  1   sim: 10  sequence: 0
+result: 15  5   sim: 1  sequence: 0
+result: 15  9   sim: 12  sequence: 0
+result: 15  17   sim: 1  sequence: 0
+result: 15  19   sim: 1  sequence: 0
+result: 15  21   sim: 1  sequence: 0
+result: 15  22   sim: 1  sequence: 0
+result: 15  24   sim: 1  sequence: 0
+result: 15  25   sim: 3  sequence: 0
+result: 15  28   sim: 1  sequence: 0
+result: 25  24   sim: 32  sequence: 3
+result: 26  25   sim: 37  sequence: 0
+result: 28  25   sim: 35  sequence: 1
+
+单个网络输出对比结果：共时攻击优于序列攻击
+result: 1  0   sim: 0  sequence: 17
+result: 1  2   sim: 0  sequence: 8
+result: 1  24   sim: 6  sequence: 30
+result: 5  4   sim: 0  sequence: 1
+result: 5  6   sim: 0  sequence: 37
+result: 5  10   sim: 0  sequence: 1
+result: 7  4   sim: 0  sequence: 37
+result: 9  10   sim: 0  sequence: 37
+result: 18  15   sim: 0  sequence: 3
+result: 19  18   sim: 36  sequence: 37
+result: 21  20   sim: 0  sequence: 37
+result: 21  22   sim: 0  sequence: 35
+result: 22  21   sim: 0  sequence: 35
+result: 22  23   sim: 0  sequence: 37
+result: 25  28   sim: 0  sequence: 35
+result: 38  0   sim: 0  sequence: 37
+result: 38  8   sim: 36  sequence: 37

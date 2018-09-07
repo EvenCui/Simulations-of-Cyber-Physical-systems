@@ -1,0 +1,4087 @@
+i 0 j 1
+ node 2  failed node 24  failed node 29  failed node 38  failed
+ node 3  failed node 8  failed node 17  failed node 25  failed node 36  failed
+ node 4  failed node 7  failed node 13  failed node 16  failed node 26  failed node 27  failed node 28  failed
+ node 5  failed node 6  failed node 12  failed node 14  failed node 37  failed
+ node 9  failed node 10  failed node 11  failed node 15  failed node 30  failed
+ node 18  failed node 20  failed node 23  failed node 31  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 0 j 2
+
+i 0 j 3
+
+i 0 j 4
+
+i 0 j 5
+
+i 0 j 6
+
+i 0 j 7
+
+i 0 j 8
+
+i 0 j 9
+
+i 0 j 10
+
+i 0 j 11
+
+i 0 j 12
+
+i 0 j 13
+
+i 0 j 14
+
+i 0 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 0 j 16
+
+i 0 j 17
+
+i 0 j 18
+
+i 0 j 19
+
+i 0 j 20
+
+i 0 j 21
+
+i 0 j 22
+
+i 0 j 23
+
+i 0 j 24
+
+i 0 j 25
+
+i 0 j 26
+
+i 0 j 27
+
+i 0 j 28
+
+i 0 j 29
+
+i 0 j 30
+
+i 0 j 31
+
+i 0 j 32
+
+i 0 j 33
+
+i 0 j 34
+
+i 0 j 35
+
+i 0 j 36
+
+i 0 j 37
+
+i 0 j 38
+ node 8  failed
+ node 7  failed
+ node 4  failed node 6  failed
+ node 3  failed node 5  failed
+ node 2  failed node 10  failed node 13  failed node 30  failed
+ node 1  failed node 9  failed node 11  failed node 12  failed node 14  failed
+ node 24  failed node 29  failed node 31  failed
+ node 25  failed node 36  failed
+ node 26  failed node 27  failed node 28  failed
+ node 16  failed node 37  failed
+ node 15  failed node 17  failed
+ node 18  failed node 20  failed node 23  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 1 j 0
+ node 2  failed node 24  failed node 29  failed node 38  failed
+ node 3  failed node 8  failed node 17  failed node 25  failed node 36  failed
+ node 4  failed node 7  failed node 13  failed node 16  failed node 26  failed node 27  failed node 28  failed
+ node 5  failed node 6  failed node 12  failed node 14  failed node 37  failed
+ node 9  failed node 10  failed node 11  failed node 15  failed node 30  failed
+ node 18  failed node 20  failed node 23  failed node 31  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 1 j 2
+ node 0  failed node 24  failed node 29  failed
+ node 25  failed node 36  failed node 38  failed
+ node 8  failed node 26  failed node 27  failed node 28  failed
+ node 7  failed node 16  failed node 37  failed
+ node 4  failed node 6  failed node 17  failed
+ node 3  failed node 5  failed
+ node 10  failed node 13  failed node 30  failed
+ node 9  failed node 11  failed node 12  failed node 14  failed
+ node 15  failed node 31  failed
+ node 18  failed node 20  failed node 23  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 1 j 3
+ node 2  failed
+ node 17  failed
+ node 16  failed
+ node 15  failed node 26  failed
+ node 14  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 19  failed node 21  failed node 22  failed node 32  failed
+ node 12  failed node 33  failed node 34  failed node 35  failed
+ node 9  failed node 11  failed
+ node 10  failed node 31  failed
+ node 5  failed
+ node 4  failed node 6  failed node 30  failed
+ node 7  failed
+ node 8  failed
+ node 38  failed
+ node 0  failed
+
+i 1 j 4
+
+i 1 j 5
+
+i 1 j 6
+
+i 1 j 7
+
+i 1 j 8
+
+i 1 j 9
+
+i 1 j 10
+
+i 1 j 11
+
+i 1 j 12
+
+i 1 j 13
+
+i 1 j 14
+
+i 1 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 4  failed node 9  failed node 11  failed
+ node 5  failed node 7  failed node 10  failed node 31  failed
+ node 6  failed node 30  failed
+
+i 1 j 16
+
+i 1 j 17
+ node 2  failed
+ node 3  failed
+ node 4  failed node 13  failed
+ node 5  failed node 7  failed node 12  failed node 14  failed
+ node 6  failed node 8  failed node 9  failed node 10  failed node 11  failed node 30  failed
+ node 31  failed node 38  failed
+ node 0  failed
+
+i 1 j 18
+
+i 1 j 19
+
+i 1 j 20
+
+i 1 j 21
+
+i 1 j 22
+
+i 1 j 23
+
+i 1 j 24
+ node 0  failed node 2  failed node 29  failed
+ node 3  failed node 17  failed node 38  failed
+ node 4  failed node 8  failed node 13  failed node 16  failed
+ node 5  failed node 7  failed node 12  failed node 14  failed
+ node 6  failed node 9  failed node 10  failed node 11  failed node 15  failed node 30  failed
+ node 18  failed node 20  failed node 23  failed node 31  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 1 j 25
+ node 24  failed
+ node 36  failed
+
+i 1 j 26
+
+i 1 j 27
+
+i 1 j 28
+
+i 1 j 29
+
+i 1 j 30
+
+i 1 j 31
+
+i 1 j 32
+
+i 1 j 33
+
+i 1 j 34
+
+i 1 j 35
+
+i 1 j 36
+ node 24  failed
+ node 25  failed
+ node 26  failed node 27  failed node 28  failed
+ node 16  failed node 37  failed
+
+i 1 j 37
+
+i 1 j 38
+ node 0  failed
+
+i 2 j 0
+
+i 2 j 1
+ node 0  failed node 24  failed node 29  failed
+ node 25  failed node 36  failed node 38  failed
+ node 8  failed node 26  failed node 27  failed node 28  failed
+ node 7  failed node 16  failed node 37  failed
+ node 4  failed node 6  failed node 17  failed
+ node 3  failed node 5  failed
+ node 10  failed node 13  failed node 30  failed
+ node 9  failed node 11  failed node 12  failed node 14  failed
+ node 15  failed node 31  failed
+ node 18  failed node 20  failed node 23  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 2 j 3
+
+i 2 j 4
+
+i 2 j 5
+
+i 2 j 6
+
+i 2 j 7
+
+i 2 j 8
+
+i 2 j 9
+
+i 2 j 10
+
+i 2 j 11
+
+i 2 j 12
+
+i 2 j 13
+
+i 2 j 14
+
+i 2 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 3  failed node 33  failed node 34  failed node 35  failed
+ node 4  failed
+ node 5  failed node 7  failed
+ node 6  failed node 8  failed node 10  failed node 30  failed
+ node 9  failed node 11  failed node 38  failed
+ node 0  failed node 12  failed node 31  failed
+ node 1  failed
+ node 24  failed node 29  failed
+ node 25  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 2 j 16
+
+i 2 j 17
+
+i 2 j 18
+
+i 2 j 19
+
+i 2 j 20
+
+i 2 j 21
+
+i 2 j 22
+
+i 2 j 23
+
+i 2 j 24
+
+i 2 j 25
+
+i 2 j 26
+
+i 2 j 27
+
+i 2 j 28
+
+i 2 j 29
+
+i 2 j 30
+
+i 2 j 31
+
+i 2 j 32
+
+i 2 j 33
+
+i 2 j 34
+
+i 2 j 35
+
+i 2 j 36
+
+i 2 j 37
+
+i 2 j 38
+
+i 3 j 0
+
+i 3 j 1
+ node 2  failed
+ node 17  failed
+ node 16  failed
+ node 15  failed node 26  failed
+ node 14  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 19  failed node 21  failed node 22  failed node 32  failed
+ node 12  failed node 33  failed node 34  failed node 35  failed
+ node 9  failed node 11  failed
+ node 10  failed node 31  failed
+ node 5  failed
+ node 4  failed node 6  failed node 30  failed
+ node 7  failed
+ node 8  failed
+ node 38  failed
+ node 0  failed
+
+i 3 j 2
+
+i 3 j 4
+
+i 3 j 5
+ node 4  failed
+ node 7  failed
+ node 6  failed node 8  failed
+ node 38  failed
+ node 0  failed
+ node 1  failed
+ node 2  failed node 24  failed node 29  failed
+ node 17  failed node 25  failed node 36  failed
+ node 16  failed node 26  failed node 27  failed node 28  failed
+ node 15  failed node 37  failed
+ node 14  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 19  failed node 21  failed node 22  failed node 32  failed
+ node 12  failed node 33  failed node 34  failed node 35  failed
+ node 9  failed node 11  failed
+ node 10  failed node 31  failed
+
+i 3 j 6
+
+i 3 j 7
+ node 4  failed
+ node 5  failed
+ node 6  failed node 10  failed node 30  failed
+ node 9  failed node 11  failed
+ node 12  failed node 31  failed
+ node 13  failed
+ node 14  failed
+ node 15  failed
+ node 16  failed node 18  failed node 20  failed node 23  failed
+ node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 29  failed node 36  failed node 37  failed
+ node 38  failed
+ node 8  failed
+
+i 3 j 8
+
+i 3 j 9
+
+i 3 j 10
+
+i 3 j 11
+
+i 3 j 12
+ node 13  failed
+ node 14  failed
+ node 15  failed
+ node 16  failed node 18  failed node 20  failed node 23  failed
+ node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 29  failed node 36  failed node 37  failed
+ node 38  failed
+ node 8  failed
+ node 7  failed
+ node 4  failed node 6  failed
+ node 5  failed
+ node 10  failed node 30  failed
+ node 9  failed node 11  failed
+ node 31  failed
+
+i 3 j 13
+
+i 3 j 14
+
+i 3 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 9  failed node 11  failed
+ node 0  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 5  failed node 25  failed node 36  failed node 38  failed
+ node 4  failed node 6  failed node 8  failed node 27  failed node 28  failed node 30  failed
+ node 7  failed node 37  failed
+
+i 3 j 16
+
+i 3 j 17
+
+i 3 j 18
+
+i 3 j 19
+
+i 3 j 20
+
+i 3 j 21
+
+i 3 j 22
+
+i 3 j 23
+
+i 3 j 24
+
+i 3 j 25
+
+i 3 j 26
+
+i 3 j 27
+
+i 3 j 28
+
+i 3 j 29
+
+i 3 j 30
+
+i 3 j 31
+
+i 3 j 32
+
+i 3 j 33
+
+i 3 j 34
+
+i 3 j 35
+
+i 3 j 36
+
+i 3 j 37
+
+i 3 j 38
+
+i 4 j 0
+
+i 4 j 1
+
+i 4 j 2
+
+i 4 j 3
+
+i 4 j 5
+ node 6  failed node 10  failed node 30  failed
+ node 7  failed node 9  failed node 11  failed
+ node 8  failed node 12  failed node 31  failed
+ node 13  failed node 38  failed
+ node 0  failed node 3  failed node 14  failed
+ node 1  failed node 2  failed
+ node 17  failed node 24  failed node 29  failed
+ node 16  failed node 25  failed node 36  failed
+ node 15  failed node 26  failed node 27  failed node 28  failed
+ node 18  failed node 20  failed node 23  failed node 37  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 4 j 6
+
+i 4 j 7
+ node 6  failed node 8  failed
+ node 5  failed node 38  failed
+ node 0  failed node 10  failed node 30  failed
+ node 1  failed node 9  failed node 11  failed
+ node 2  failed node 12  failed node 24  failed node 29  failed node 31  failed
+ node 3  failed node 13  failed node 17  failed node 25  failed node 36  failed
+ node 14  failed node 16  failed node 26  failed node 27  failed node 28  failed
+ node 15  failed node 37  failed
+ node 18  failed node 20  failed node 23  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 4 j 8
+
+i 4 j 9
+
+i 4 j 10
+
+i 4 j 11
+
+i 4 j 12
+
+i 4 j 13
+
+i 4 j 14
+
+i 4 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 9  failed node 11  failed
+ node 0  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 5  failed node 25  failed node 36  failed node 38  failed
+ node 6  failed node 8  failed node 27  failed node 28  failed node 30  failed
+ node 7  failed node 37  failed
+
+i 4 j 16
+
+i 4 j 17
+
+i 4 j 18
+
+i 4 j 19
+
+i 4 j 20
+
+i 4 j 21
+
+i 4 j 22
+
+i 4 j 23
+
+i 4 j 24
+
+i 4 j 25
+
+i 4 j 26
+
+i 4 j 27
+
+i 4 j 28
+
+i 4 j 29
+
+i 4 j 30
+
+i 4 j 31
+
+i 4 j 32
+
+i 4 j 33
+
+i 4 j 34
+
+i 4 j 35
+
+i 4 j 36
+
+i 4 j 37
+
+i 4 j 38
+
+i 5 j 0
+
+i 5 j 1
+
+i 5 j 2
+
+i 5 j 3
+ node 4  failed
+ node 7  failed
+ node 6  failed node 8  failed
+ node 38  failed
+ node 0  failed
+ node 1  failed
+ node 2  failed node 24  failed node 29  failed
+ node 17  failed node 25  failed node 36  failed
+ node 16  failed node 26  failed node 27  failed node 28  failed
+ node 15  failed node 37  failed
+ node 14  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 19  failed node 21  failed node 22  failed node 32  failed
+ node 12  failed node 33  failed node 34  failed node 35  failed
+ node 9  failed node 11  failed
+ node 10  failed node 31  failed
+
+i 5 j 4
+ node 6  failed node 10  failed node 30  failed
+ node 7  failed node 9  failed node 11  failed
+ node 8  failed node 12  failed node 31  failed
+ node 13  failed node 38  failed
+ node 0  failed node 3  failed node 14  failed
+ node 1  failed node 2  failed
+ node 17  failed node 24  failed node 29  failed
+ node 16  failed node 25  failed node 36  failed
+ node 15  failed node 26  failed node 27  failed node 28  failed
+ node 18  failed node 20  failed node 23  failed node 37  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 5 j 6
+ node 4  failed node 10  failed node 30  failed
+ node 7  failed node 9  failed node 11  failed
+ node 8  failed node 12  failed node 31  failed
+ node 13  failed node 38  failed
+ node 0  failed node 3  failed node 14  failed
+ node 1  failed node 2  failed
+ node 17  failed node 24  failed node 29  failed
+ node 16  failed node 25  failed node 36  failed
+ node 15  failed node 26  failed node 27  failed node 28  failed
+ node 18  failed node 20  failed node 23  failed node 37  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 5 j 7
+ node 4  failed node 6  failed
+ node 3  failed
+ node 2  failed node 13  failed
+ node 1  failed node 12  failed node 14  failed node 17  failed
+ node 0  failed node 9  failed node 11  failed node 16  failed node 24  failed node 29  failed
+ node 10  failed node 15  failed node 25  failed node 31  failed node 36  failed node 38  failed
+ node 8  failed node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 5 j 8
+
+i 5 j 9
+ node 10  failed
+ node 11  failed
+ node 12  failed
+ node 13  failed
+ node 3  failed node 14  failed
+ node 2  failed node 4  failed
+ node 1  failed node 7  failed node 17  failed
+ node 0  failed node 6  failed node 8  failed node 16  failed node 24  failed node 29  failed
+ node 15  failed node 25  failed node 36  failed node 38  failed
+ node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 5 j 10
+ node 4  failed node 6  failed node 30  failed
+ node 3  failed node 7  failed
+ node 2  failed node 8  failed node 13  failed
+ node 1  failed node 12  failed node 14  failed node 17  failed node 38  failed
+ node 0  failed node 9  failed node 11  failed node 16  failed node 24  failed node 29  failed
+ node 15  failed node 25  failed node 31  failed node 36  failed
+ node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 5 j 11
+ node 10  failed
+ node 9  failed
+ node 12  failed node 31  failed
+ node 13  failed
+ node 3  failed node 14  failed
+ node 2  failed node 4  failed
+ node 1  failed node 7  failed node 17  failed
+ node 0  failed node 6  failed node 8  failed node 16  failed node 24  failed node 29  failed
+ node 15  failed node 25  failed node 36  failed node 38  failed
+ node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 5 j 12
+
+i 5 j 13
+
+i 5 j 14
+
+i 5 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 8  failed node 25  failed node 36  failed node 38  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 5 j 16
+
+i 5 j 17
+
+i 5 j 18
+
+i 5 j 19
+
+i 5 j 20
+
+i 5 j 21
+
+i 5 j 22
+
+i 5 j 23
+
+i 5 j 24
+
+i 5 j 25
+
+i 5 j 26
+
+i 5 j 27
+
+i 5 j 28
+
+i 5 j 29
+
+i 5 j 30
+
+i 5 j 31
+
+i 5 j 32
+
+i 5 j 33
+
+i 5 j 34
+
+i 5 j 35
+
+i 5 j 36
+
+i 5 j 37
+
+i 5 j 38
+
+i 6 j 0
+
+i 6 j 1
+
+i 6 j 2
+
+i 6 j 3
+
+i 6 j 4
+
+i 6 j 5
+ node 4  failed node 10  failed node 30  failed
+ node 7  failed node 9  failed node 11  failed
+ node 8  failed node 12  failed node 31  failed
+ node 13  failed node 38  failed
+ node 0  failed node 3  failed node 14  failed
+ node 1  failed node 2  failed
+ node 17  failed node 24  failed node 29  failed
+ node 16  failed node 25  failed node 36  failed
+ node 15  failed node 26  failed node 27  failed node 28  failed
+ node 18  failed node 20  failed node 23  failed node 37  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 6 j 7
+
+i 6 j 8
+
+i 6 j 9
+
+i 6 j 10
+
+i 6 j 11
+
+i 6 j 12
+
+i 6 j 13
+
+i 6 j 14
+
+i 6 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 8  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 6 j 16
+
+i 6 j 17
+
+i 6 j 18
+
+i 6 j 19
+
+i 6 j 20
+
+i 6 j 21
+
+i 6 j 22
+
+i 6 j 23
+
+i 6 j 24
+
+i 6 j 25
+
+i 6 j 26
+
+i 6 j 27
+
+i 6 j 28
+
+i 6 j 29
+
+i 6 j 30
+
+i 6 j 31
+
+i 6 j 32
+
+i 6 j 33
+
+i 6 j 34
+
+i 6 j 35
+
+i 6 j 36
+
+i 6 j 37
+
+i 6 j 38
+
+i 7 j 0
+
+i 7 j 1
+
+i 7 j 2
+
+i 7 j 3
+ node 4  failed
+ node 5  failed
+ node 6  failed node 10  failed node 30  failed
+ node 9  failed node 11  failed
+ node 12  failed node 31  failed
+ node 13  failed
+ node 14  failed
+ node 15  failed
+ node 16  failed node 18  failed node 20  failed node 23  failed
+ node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 29  failed node 36  failed node 37  failed
+ node 38  failed
+ node 8  failed
+
+i 7 j 4
+ node 6  failed node 8  failed
+ node 5  failed node 38  failed
+ node 0  failed node 10  failed node 30  failed
+ node 1  failed node 9  failed node 11  failed
+ node 2  failed node 12  failed node 24  failed node 29  failed node 31  failed
+ node 3  failed node 13  failed node 17  failed node 25  failed node 36  failed
+ node 14  failed node 16  failed node 26  failed node 27  failed node 28  failed
+ node 15  failed node 37  failed
+ node 18  failed node 20  failed node 23  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 7 j 5
+ node 4  failed node 6  failed
+ node 3  failed
+ node 2  failed node 13  failed
+ node 1  failed node 12  failed node 14  failed node 17  failed
+ node 0  failed node 9  failed node 11  failed node 16  failed node 24  failed node 29  failed
+ node 10  failed node 15  failed node 25  failed node 31  failed node 36  failed node 38  failed
+ node 8  failed node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 7 j 6
+
+i 7 j 8
+ node 38  failed
+ node 0  failed
+
+i 7 j 9
+
+i 7 j 10
+
+i 7 j 11
+
+i 7 j 12
+
+i 7 j 13
+
+i 7 j 14
+
+i 7 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 7 j 16
+
+i 7 j 17
+
+i 7 j 18
+
+i 7 j 19
+
+i 7 j 20
+
+i 7 j 21
+
+i 7 j 22
+
+i 7 j 23
+
+i 7 j 24
+
+i 7 j 25
+
+i 7 j 26
+
+i 7 j 27
+
+i 7 j 28
+
+i 7 j 29
+
+i 7 j 30
+
+i 7 j 31
+
+i 7 j 32
+
+i 7 j 33
+
+i 7 j 34
+
+i 7 j 35
+
+i 7 j 36
+
+i 7 j 37
+
+i 7 j 38
+ node 8  failed
+
+i 8 j 0
+
+i 8 j 1
+
+i 8 j 2
+
+i 8 j 3
+
+i 8 j 4
+
+i 8 j 5
+
+i 8 j 6
+
+i 8 j 7
+ node 38  failed
+ node 0  failed
+
+i 8 j 9
+
+i 8 j 10
+
+i 8 j 11
+
+i 8 j 12
+
+i 8 j 13
+
+i 8 j 14
+
+i 8 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 8 j 16
+
+i 8 j 17
+
+i 8 j 18
+
+i 8 j 19
+
+i 8 j 20
+
+i 8 j 21
+
+i 8 j 22
+
+i 8 j 23
+
+i 8 j 24
+
+i 8 j 25
+
+i 8 j 26
+
+i 8 j 27
+
+i 8 j 28
+
+i 8 j 29
+
+i 8 j 30
+
+i 8 j 31
+
+i 8 j 32
+
+i 8 j 33
+
+i 8 j 34
+
+i 8 j 35
+
+i 8 j 36
+
+i 8 j 37
+
+i 8 j 38
+ node 0  failed
+
+i 9 j 0
+
+i 9 j 1
+
+i 9 j 2
+
+i 9 j 3
+
+i 9 j 4
+
+i 9 j 5
+ node 10  failed
+ node 11  failed
+ node 12  failed
+ node 13  failed
+ node 3  failed node 14  failed
+ node 2  failed node 4  failed
+ node 1  failed node 7  failed node 17  failed
+ node 0  failed node 6  failed node 8  failed node 16  failed node 24  failed node 29  failed
+ node 15  failed node 25  failed node 36  failed node 38  failed
+ node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 9 j 6
+
+i 9 j 7
+
+i 9 j 8
+
+i 9 j 10
+ node 12  failed node 31  failed
+ node 11  failed node 13  failed
+ node 3  failed node 14  failed
+ node 2  failed node 4  failed
+ node 1  failed node 5  failed node 17  failed
+ node 0  failed node 6  failed node 16  failed node 24  failed node 29  failed node 30  failed
+ node 7  failed node 15  failed node 25  failed node 36  failed node 38  failed
+ node 8  failed node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 9 j 11
+
+i 9 j 12
+ node 10  failed node 31  failed
+ node 11  failed
+
+i 9 j 13
+ node 12  failed
+ node 11  failed
+ node 10  failed
+ node 5  failed
+ node 4  failed node 6  failed node 30  failed
+ node 3  failed node 7  failed
+ node 2  failed node 8  failed
+ node 1  failed node 17  failed node 38  failed
+ node 0  failed node 16  failed node 24  failed node 29  failed
+ node 25  failed node 36  failed
+ node 26  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 9 j 14
+
+i 9 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 3  failed node 11  failed
+ node 4  failed node 10  failed
+ node 5  failed node 7  failed
+ node 6  failed node 30  failed
+
+i 9 j 16
+
+i 9 j 17
+
+i 9 j 18
+
+i 9 j 19
+
+i 9 j 20
+
+i 9 j 21
+
+i 9 j 22
+
+i 9 j 23
+
+i 9 j 24
+
+i 9 j 25
+
+i 9 j 26
+
+i 9 j 27
+
+i 9 j 28
+
+i 9 j 29
+
+i 9 j 30
+
+i 9 j 31
+
+i 9 j 32
+
+i 9 j 33
+
+i 9 j 34
+
+i 9 j 35
+
+i 9 j 36
+
+i 9 j 37
+
+i 9 j 38
+
+i 10 j 0
+
+i 10 j 1
+
+i 10 j 2
+
+i 10 j 3
+
+i 10 j 4
+
+i 10 j 5
+ node 4  failed node 6  failed node 30  failed
+ node 3  failed node 7  failed
+ node 2  failed node 8  failed node 13  failed
+ node 1  failed node 12  failed node 14  failed node 17  failed node 38  failed
+ node 0  failed node 9  failed node 11  failed node 16  failed node 24  failed node 29  failed
+ node 15  failed node 25  failed node 31  failed node 36  failed
+ node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 10 j 6
+
+i 10 j 7
+
+i 10 j 8
+
+i 10 j 9
+ node 12  failed node 31  failed
+ node 11  failed node 13  failed
+ node 3  failed node 14  failed
+ node 2  failed node 4  failed
+ node 1  failed node 5  failed node 17  failed
+ node 0  failed node 6  failed node 16  failed node 24  failed node 29  failed node 30  failed
+ node 7  failed node 15  failed node 25  failed node 36  failed node 38  failed
+ node 8  failed node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 10 j 11
+
+i 10 j 12
+
+i 10 j 13
+
+i 10 j 14
+
+i 10 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 10 j 16
+
+i 10 j 17
+
+i 10 j 18
+
+i 10 j 19
+
+i 10 j 20
+
+i 10 j 21
+
+i 10 j 22
+
+i 10 j 23
+
+i 10 j 24
+
+i 10 j 25
+
+i 10 j 26
+
+i 10 j 27
+
+i 10 j 28
+
+i 10 j 29
+
+i 10 j 30
+
+i 10 j 31
+
+i 10 j 32
+
+i 10 j 33
+
+i 10 j 34
+
+i 10 j 35
+
+i 10 j 36
+
+i 10 j 37
+
+i 10 j 38
+
+i 11 j 0
+
+i 11 j 1
+
+i 11 j 2
+
+i 11 j 3
+
+i 11 j 4
+
+i 11 j 5
+ node 10  failed
+ node 9  failed
+ node 12  failed node 31  failed
+ node 13  failed
+ node 3  failed node 14  failed
+ node 2  failed node 4  failed
+ node 1  failed node 7  failed node 17  failed
+ node 0  failed node 6  failed node 8  failed node 16  failed node 24  failed node 29  failed
+ node 15  failed node 25  failed node 36  failed node 38  failed
+ node 18  failed node 20  failed node 23  failed node 26  failed node 27  failed node 28  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed node 37  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 11 j 6
+
+i 11 j 7
+
+i 11 j 8
+
+i 11 j 9
+
+i 11 j 10
+
+i 11 j 12
+
+i 11 j 13
+
+i 11 j 14
+
+i 11 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 11 j 16
+
+i 11 j 17
+
+i 11 j 18
+
+i 11 j 19
+
+i 11 j 20
+
+i 11 j 21
+
+i 11 j 22
+
+i 11 j 23
+
+i 11 j 24
+
+i 11 j 25
+
+i 11 j 26
+
+i 11 j 27
+
+i 11 j 28
+
+i 11 j 29
+
+i 11 j 30
+
+i 11 j 31
+
+i 11 j 32
+
+i 11 j 33
+
+i 11 j 34
+
+i 11 j 35
+
+i 11 j 36
+
+i 11 j 37
+
+i 11 j 38
+
+i 12 j 0
+
+i 12 j 1
+
+i 12 j 2
+
+i 12 j 3
+ node 13  failed
+ node 14  failed
+ node 15  failed
+ node 16  failed node 18  failed node 20  failed node 23  failed
+ node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 29  failed node 36  failed node 37  failed
+ node 38  failed
+ node 8  failed
+ node 7  failed
+ node 4  failed node 6  failed
+ node 5  failed
+ node 10  failed node 30  failed
+ node 9  failed node 11  failed
+ node 31  failed
+
+i 12 j 4
+
+i 12 j 5
+
+i 12 j 6
+
+i 12 j 7
+
+i 12 j 8
+
+i 12 j 9
+ node 10  failed node 31  failed
+ node 11  failed
+
+i 12 j 10
+
+i 12 j 11
+
+i 12 j 13
+
+i 12 j 14
+
+i 12 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed
+ node 0  failed node 5  failed node 7  failed node 24  failed node 29  failed
+ node 6  failed node 8  failed node 10  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 9  failed node 11  failed node 27  failed node 28  failed
+ node 31  failed node 37  failed
+
+i 12 j 16
+
+i 12 j 17
+
+i 12 j 18
+
+i 12 j 19
+
+i 12 j 20
+
+i 12 j 21
+
+i 12 j 22
+
+i 12 j 23
+
+i 12 j 24
+
+i 12 j 25
+
+i 12 j 26
+
+i 12 j 27
+
+i 12 j 28
+
+i 12 j 29
+
+i 12 j 30
+
+i 12 j 31
+
+i 12 j 32
+
+i 12 j 33
+
+i 12 j 34
+
+i 12 j 35
+
+i 12 j 36
+
+i 12 j 37
+
+i 12 j 38
+
+i 13 j 0
+
+i 13 j 1
+
+i 13 j 2
+
+i 13 j 3
+
+i 13 j 4
+
+i 13 j 5
+
+i 13 j 6
+
+i 13 j 7
+
+i 13 j 8
+
+i 13 j 9
+ node 12  failed
+ node 11  failed
+ node 10  failed
+ node 5  failed
+ node 4  failed node 6  failed node 30  failed
+ node 3  failed node 7  failed
+ node 2  failed node 8  failed
+ node 1  failed node 17  failed node 38  failed
+ node 0  failed node 16  failed node 24  failed node 29  failed
+ node 25  failed node 36  failed
+ node 26  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 13 j 10
+
+i 13 j 11
+
+i 13 j 12
+
+i 13 j 14
+
+i 13 j 15
+ node 14  failed
+
+i 13 j 16
+
+i 13 j 17
+
+i 13 j 18
+
+i 13 j 19
+
+i 13 j 20
+
+i 13 j 21
+
+i 13 j 22
+
+i 13 j 23
+
+i 13 j 24
+
+i 13 j 25
+
+i 13 j 26
+
+i 13 j 27
+
+i 13 j 28
+
+i 13 j 29
+
+i 13 j 30
+
+i 13 j 31
+
+i 13 j 32
+
+i 13 j 33
+
+i 13 j 34
+
+i 13 j 35
+
+i 13 j 36
+
+i 13 j 37
+
+i 13 j 38
+
+i 14 j 0
+
+i 14 j 1
+
+i 14 j 2
+
+i 14 j 3
+
+i 14 j 4
+
+i 14 j 5
+
+i 14 j 6
+
+i 14 j 7
+
+i 14 j 8
+
+i 14 j 9
+
+i 14 j 10
+
+i 14 j 11
+
+i 14 j 12
+
+i 14 j 13
+
+i 14 j 15
+ node 16  failed node 18  failed node 20  failed node 23  failed
+ node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 3  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 13  failed node 29  failed node 36  failed node 37  failed
+ node 12  failed node 38  failed
+ node 8  failed node 9  failed node 11  failed
+ node 7  failed node 10  failed node 31  failed
+ node 4  failed node 5  failed node 6  failed
+ node 30  failed
+
+i 14 j 16
+
+i 14 j 17
+
+i 14 j 18
+
+i 14 j 19
+
+i 14 j 20
+
+i 14 j 21
+
+i 14 j 22
+
+i 14 j 23
+
+i 14 j 24
+
+i 14 j 25
+
+i 14 j 26
+
+i 14 j 27
+
+i 14 j 28
+
+i 14 j 29
+
+i 14 j 30
+
+i 14 j 31
+
+i 14 j 32
+
+i 14 j 33
+
+i 14 j 34
+
+i 14 j 35
+
+i 14 j 36
+
+i 14 j 37
+
+i 14 j 38
+
+i 15 j 0
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 1
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 4  failed node 9  failed node 11  failed
+ node 5  failed node 7  failed node 10  failed node 31  failed
+ node 6  failed node 30  failed
+
+i 15 j 2
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 3  failed node 33  failed node 34  failed node 35  failed
+ node 4  failed
+ node 5  failed node 7  failed
+ node 6  failed node 8  failed node 10  failed node 30  failed
+ node 9  failed node 11  failed node 38  failed
+ node 0  failed node 12  failed node 31  failed
+ node 1  failed
+ node 24  failed node 29  failed
+ node 25  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 3
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 9  failed node 11  failed
+ node 0  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 5  failed node 25  failed node 36  failed node 38  failed
+ node 4  failed node 6  failed node 8  failed node 27  failed node 28  failed node 30  failed
+ node 7  failed node 37  failed
+
+i 15 j 4
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 9  failed node 11  failed
+ node 0  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 5  failed node 25  failed node 36  failed node 38  failed
+ node 6  failed node 8  failed node 27  failed node 28  failed node 30  failed
+ node 7  failed node 37  failed
+
+i 15 j 5
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 8  failed node 25  failed node 36  failed node 38  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 6
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 8  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 7
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 8
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 9
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 3  failed node 11  failed
+ node 4  failed node 10  failed
+ node 5  failed node 7  failed
+ node 6  failed node 30  failed
+
+i 15 j 10
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 11
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 12
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed
+ node 0  failed node 5  failed node 7  failed node 24  failed node 29  failed
+ node 6  failed node 8  failed node 10  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 9  failed node 11  failed node 27  failed node 28  failed
+ node 31  failed node 37  failed
+
+i 15 j 13
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 33  failed node 34  failed node 35  failed
+ node 3  failed
+ node 4  failed
+ node 5  failed node 7  failed
+ node 6  failed node 8  failed node 10  failed node 30  failed
+ node 9  failed node 11  failed node 38  failed
+ node 0  failed node 12  failed node 31  failed
+ node 1  failed
+ node 24  failed node 29  failed
+ node 25  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 14
+ node 16  failed node 18  failed node 20  failed node 23  failed
+ node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 3  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 13  failed node 29  failed node 36  failed node 37  failed
+ node 12  failed node 38  failed
+ node 8  failed node 9  failed node 11  failed
+ node 7  failed node 10  failed node 31  failed
+ node 4  failed node 5  failed node 6  failed
+ node 30  failed
+
+i 15 j 16
+ node 14  failed node 17  failed node 18  failed node 20  failed node 23  failed node 26  failed
+ node 2  failed node 13  failed node 19  failed node 21  failed node 22  failed node 32  failed
+ node 3  failed node 33  failed node 34  failed node 35  failed
+ node 4  failed
+ node 5  failed node 7  failed
+ node 6  failed node 8  failed node 10  failed node 30  failed
+ node 9  failed node 11  failed node 38  failed
+ node 0  failed node 12  failed node 31  failed
+ node 1  failed
+ node 24  failed node 29  failed
+ node 25  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 17
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 3  failed node 12  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 2  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 1  failed node 10  failed node 31  failed node 37  failed
+ node 0  failed node 5  failed node 29  failed
+ node 6  failed node 30  failed node 38  failed
+ node 7  failed node 8  failed
+
+i 15 j 18
+ node 14  failed node 16  failed node 19  failed node 20  failed node 23  failed node 32  failed
+ node 13  failed node 17  failed node 21  failed node 22  failed node 26  failed node 33  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 15 j 19
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 20
+ node 14  failed node 16  failed node 18  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 21  failed node 25  failed node 33  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed node 34  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 15 j 21
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 22
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 23
+ node 14  failed node 16  failed node 18  failed node 20  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 22  failed node 25  failed node 33  failed node 34  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed node 35  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 15 j 24
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 15 j 25
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed
+
+i 15 j 26
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 27
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 15 j 28
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 15 j 29
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 30
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 31
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 32
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 33
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 34
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 35
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 36
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 15 j 37
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+
+i 15 j 38
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 8  failed node 25  failed node 30  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 16 j 0
+
+i 16 j 1
+
+i 16 j 2
+
+i 16 j 3
+
+i 16 j 4
+
+i 16 j 5
+
+i 16 j 6
+
+i 16 j 7
+
+i 16 j 8
+
+i 16 j 9
+
+i 16 j 10
+
+i 16 j 11
+
+i 16 j 12
+
+i 16 j 13
+
+i 16 j 14
+
+i 16 j 15
+ node 14  failed node 17  failed node 18  failed node 20  failed node 23  failed node 26  failed
+ node 2  failed node 13  failed node 19  failed node 21  failed node 22  failed node 32  failed
+ node 3  failed node 33  failed node 34  failed node 35  failed
+ node 4  failed
+ node 5  failed node 7  failed
+ node 6  failed node 8  failed node 10  failed node 30  failed
+ node 9  failed node 11  failed node 38  failed
+ node 0  failed node 12  failed node 31  failed
+ node 1  failed
+ node 24  failed node 29  failed
+ node 25  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 16 j 17
+
+i 16 j 18
+
+i 16 j 19
+
+i 16 j 20
+
+i 16 j 21
+
+i 16 j 22
+
+i 16 j 23
+
+i 16 j 24
+
+i 16 j 25
+ node 26  failed
+
+i 16 j 26
+
+i 16 j 27
+
+i 16 j 28
+
+i 16 j 29
+
+i 16 j 30
+
+i 16 j 31
+
+i 16 j 32
+
+i 16 j 33
+
+i 16 j 34
+
+i 16 j 35
+
+i 16 j 36
+
+i 16 j 37
+
+i 16 j 38
+
+i 17 j 0
+
+i 17 j 1
+ node 2  failed
+ node 3  failed
+ node 4  failed node 13  failed
+ node 5  failed node 7  failed node 12  failed node 14  failed
+ node 6  failed node 8  failed node 9  failed node 10  failed node 11  failed node 30  failed
+ node 31  failed node 38  failed
+ node 0  failed
+
+i 17 j 2
+
+i 17 j 3
+
+i 17 j 4
+
+i 17 j 5
+
+i 17 j 6
+
+i 17 j 7
+
+i 17 j 8
+
+i 17 j 9
+
+i 17 j 10
+
+i 17 j 11
+
+i 17 j 12
+
+i 17 j 13
+
+i 17 j 14
+
+i 17 j 15
+ node 16  failed
+ node 26  failed
+ node 25  failed
+ node 24  failed node 27  failed node 28  failed
+ node 1  failed node 36  failed node 37  failed
+ node 0  failed node 2  failed node 29  failed
+ node 3  failed node 38  failed
+ node 4  failed node 8  failed node 13  failed
+ node 5  failed node 7  failed node 12  failed node 14  failed
+ node 6  failed node 9  failed node 10  failed node 11  failed node 30  failed
+ node 31  failed
+
+i 17 j 16
+
+i 17 j 18
+
+i 17 j 19
+
+i 17 j 20
+
+i 17 j 21
+
+i 17 j 22
+
+i 17 j 23
+
+i 17 j 24
+
+i 17 j 25
+
+i 17 j 26
+
+i 17 j 27
+
+i 17 j 28
+
+i 17 j 29
+
+i 17 j 30
+
+i 17 j 31
+
+i 17 j 32
+
+i 17 j 33
+
+i 17 j 34
+
+i 17 j 35
+
+i 17 j 36
+
+i 17 j 37
+
+i 17 j 38
+
+i 18 j 0
+
+i 18 j 1
+
+i 18 j 2
+
+i 18 j 3
+
+i 18 j 4
+
+i 18 j 5
+
+i 18 j 6
+
+i 18 j 7
+
+i 18 j 8
+
+i 18 j 9
+
+i 18 j 10
+
+i 18 j 11
+
+i 18 j 12
+
+i 18 j 13
+
+i 18 j 14
+
+i 18 j 15
+ node 14  failed node 16  failed node 19  failed node 20  failed node 23  failed node 32  failed
+ node 13  failed node 17  failed node 21  failed node 22  failed node 26  failed node 33  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 18 j 16
+
+i 18 j 17
+
+i 18 j 19
+ node 33  failed
+
+i 18 j 20
+
+i 18 j 21
+
+i 18 j 22
+
+i 18 j 23
+
+i 18 j 24
+
+i 18 j 25
+
+i 18 j 26
+
+i 18 j 27
+
+i 18 j 28
+
+i 18 j 29
+
+i 18 j 30
+
+i 18 j 31
+
+i 18 j 32
+
+i 18 j 33
+
+i 18 j 34
+
+i 18 j 35
+
+i 18 j 36
+
+i 18 j 37
+
+i 18 j 38
+
+i 19 j 0
+
+i 19 j 1
+
+i 19 j 2
+
+i 19 j 3
+
+i 19 j 4
+
+i 19 j 5
+
+i 19 j 6
+
+i 19 j 7
+
+i 19 j 8
+
+i 19 j 9
+
+i 19 j 10
+
+i 19 j 11
+
+i 19 j 12
+
+i 19 j 13
+
+i 19 j 14
+
+i 19 j 15
+ node 18  failed
+ node 32  failed
+
+i 19 j 16
+
+i 19 j 17
+
+i 19 j 18
+ node 33  failed
+
+i 19 j 20
+
+i 19 j 21
+
+i 19 j 22
+
+i 19 j 23
+
+i 19 j 24
+
+i 19 j 25
+
+i 19 j 26
+
+i 19 j 27
+
+i 19 j 28
+
+i 19 j 29
+
+i 19 j 30
+
+i 19 j 31
+
+i 19 j 32
+
+i 19 j 33
+
+i 19 j 34
+
+i 19 j 35
+
+i 19 j 36
+
+i 19 j 37
+
+i 19 j 38
+
+i 20 j 0
+
+i 20 j 1
+
+i 20 j 2
+
+i 20 j 3
+
+i 20 j 4
+
+i 20 j 5
+
+i 20 j 6
+
+i 20 j 7
+
+i 20 j 8
+
+i 20 j 9
+
+i 20 j 10
+
+i 20 j 11
+
+i 20 j 12
+
+i 20 j 13
+
+i 20 j 14
+
+i 20 j 15
+ node 14  failed node 16  failed node 18  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 21  failed node 25  failed node 33  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed node 34  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 20 j 16
+
+i 20 j 17
+
+i 20 j 18
+
+i 20 j 19
+
+i 20 j 21
+ node 22  failed node 34  failed
+ node 23  failed node 35  failed
+ node 15  failed
+ node 14  failed node 16  failed node 18  failed
+ node 13  failed node 17  failed node 19  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 20 j 22
+
+i 20 j 23
+
+i 20 j 24
+
+i 20 j 25
+
+i 20 j 26
+
+i 20 j 27
+
+i 20 j 28
+
+i 20 j 29
+
+i 20 j 30
+
+i 20 j 31
+
+i 20 j 32
+
+i 20 j 33
+
+i 20 j 34
+
+i 20 j 35
+
+i 20 j 36
+
+i 20 j 37
+
+i 20 j 38
+
+i 21 j 0
+
+i 21 j 1
+
+i 21 j 2
+
+i 21 j 3
+
+i 21 j 4
+
+i 21 j 5
+
+i 21 j 6
+
+i 21 j 7
+
+i 21 j 8
+
+i 21 j 9
+
+i 21 j 10
+
+i 21 j 11
+
+i 21 j 12
+
+i 21 j 13
+
+i 21 j 14
+
+i 21 j 15
+ node 20  failed
+
+i 21 j 16
+
+i 21 j 17
+
+i 21 j 18
+
+i 21 j 19
+
+i 21 j 20
+ node 22  failed node 34  failed
+ node 23  failed node 35  failed
+ node 15  failed
+ node 14  failed node 16  failed node 18  failed
+ node 13  failed node 17  failed node 19  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 21 j 22
+ node 20  failed node 23  failed node 34  failed node 35  failed
+ node 15  failed
+ node 14  failed node 16  failed node 18  failed
+ node 13  failed node 17  failed node 19  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 21 j 23
+ node 22  failed
+ node 35  failed
+
+i 21 j 24
+
+i 21 j 25
+
+i 21 j 26
+
+i 21 j 27
+
+i 21 j 28
+
+i 21 j 29
+
+i 21 j 30
+
+i 21 j 31
+
+i 21 j 32
+
+i 21 j 33
+
+i 21 j 34
+
+i 21 j 35
+
+i 21 j 36
+
+i 21 j 37
+
+i 21 j 38
+
+i 22 j 0
+
+i 22 j 1
+
+i 22 j 2
+
+i 22 j 3
+
+i 22 j 4
+
+i 22 j 5
+
+i 22 j 6
+
+i 22 j 7
+
+i 22 j 8
+
+i 22 j 9
+
+i 22 j 10
+
+i 22 j 11
+
+i 22 j 12
+
+i 22 j 13
+
+i 22 j 14
+
+i 22 j 15
+ node 23  failed
+
+i 22 j 16
+
+i 22 j 17
+
+i 22 j 18
+
+i 22 j 19
+
+i 22 j 20
+ node 21  failed
+ node 34  failed
+
+i 22 j 21
+ node 20  failed node 23  failed node 34  failed node 35  failed
+ node 15  failed
+ node 14  failed node 16  failed node 18  failed
+ node 13  failed node 17  failed node 19  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 22 j 23
+ node 21  failed node 35  failed
+ node 20  failed node 34  failed
+ node 15  failed
+ node 14  failed node 16  failed node 18  failed
+ node 13  failed node 17  failed node 19  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 22 j 24
+
+i 22 j 25
+
+i 22 j 26
+
+i 22 j 27
+
+i 22 j 28
+
+i 22 j 29
+
+i 22 j 30
+
+i 22 j 31
+
+i 22 j 32
+
+i 22 j 33
+
+i 22 j 34
+
+i 22 j 35
+
+i 22 j 36
+
+i 22 j 37
+
+i 22 j 38
+
+i 23 j 0
+
+i 23 j 1
+
+i 23 j 2
+
+i 23 j 3
+
+i 23 j 4
+
+i 23 j 5
+
+i 23 j 6
+
+i 23 j 7
+
+i 23 j 8
+
+i 23 j 9
+
+i 23 j 10
+
+i 23 j 11
+
+i 23 j 12
+
+i 23 j 13
+
+i 23 j 14
+
+i 23 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 22  failed node 25  failed node 33  failed node 34  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed node 35  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 23 j 16
+
+i 23 j 17
+
+i 23 j 18
+
+i 23 j 19
+
+i 23 j 20
+
+i 23 j 21
+
+i 23 j 22
+ node 21  failed node 35  failed
+ node 20  failed node 34  failed
+ node 15  failed
+ node 14  failed node 16  failed node 18  failed
+ node 13  failed node 17  failed node 19  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 23 j 24
+
+i 23 j 25
+
+i 23 j 26
+
+i 23 j 27
+
+i 23 j 28
+
+i 23 j 29
+
+i 23 j 30
+
+i 23 j 31
+
+i 23 j 32
+
+i 23 j 33
+
+i 23 j 34
+
+i 23 j 35
+
+i 23 j 36
+
+i 23 j 37
+
+i 23 j 38
+
+i 24 j 0
+
+i 24 j 1
+ node 0  failed node 2  failed node 29  failed
+ node 3  failed node 17  failed node 38  failed
+ node 4  failed node 8  failed node 13  failed node 16  failed
+ node 5  failed node 7  failed node 12  failed node 14  failed
+ node 6  failed node 9  failed node 10  failed node 11  failed node 15  failed node 30  failed
+ node 18  failed node 20  failed node 23  failed node 31  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 24 j 2
+
+i 24 j 3
+
+i 24 j 4
+
+i 24 j 5
+
+i 24 j 6
+
+i 24 j 7
+
+i 24 j 8
+
+i 24 j 9
+
+i 24 j 10
+
+i 24 j 11
+
+i 24 j 12
+
+i 24 j 13
+
+i 24 j 14
+
+i 24 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 27  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 24 j 16
+
+i 24 j 17
+
+i 24 j 18
+
+i 24 j 19
+
+i 24 j 20
+
+i 24 j 21
+
+i 24 j 22
+
+i 24 j 23
+
+i 24 j 25
+ node 26  failed node 27  failed node 28  failed
+ node 16  failed node 37  failed
+
+i 24 j 26
+
+i 24 j 27
+
+i 24 j 28
+
+i 24 j 29
+
+i 24 j 30
+
+i 24 j 31
+
+i 24 j 32
+
+i 24 j 33
+
+i 24 j 34
+
+i 24 j 35
+
+i 24 j 36
+
+i 24 j 37
+
+i 24 j 38
+
+i 25 j 0
+
+i 25 j 1
+ node 24  failed
+ node 36  failed
+
+i 25 j 2
+
+i 25 j 3
+
+i 25 j 4
+
+i 25 j 5
+
+i 25 j 6
+
+i 25 j 7
+
+i 25 j 8
+
+i 25 j 9
+
+i 25 j 10
+
+i 25 j 11
+
+i 25 j 12
+
+i 25 j 13
+
+i 25 j 14
+
+i 25 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed
+
+i 25 j 16
+ node 26  failed
+
+i 25 j 17
+
+i 25 j 18
+
+i 25 j 19
+
+i 25 j 20
+
+i 25 j 21
+
+i 25 j 22
+
+i 25 j 23
+
+i 25 j 24
+ node 26  failed node 27  failed node 28  failed
+ node 16  failed node 37  failed
+
+i 25 j 26
+
+i 25 j 27
+ node 28  failed
+ node 37  failed
+
+i 25 j 28
+ node 24  failed node 26  failed node 27  failed node 37  failed
+ node 1  failed node 16  failed node 36  failed
+ node 0  failed node 2  failed node 29  failed
+ node 3  failed node 17  failed node 38  failed
+ node 4  failed node 8  failed node 13  failed
+ node 5  failed node 7  failed node 12  failed node 14  failed
+ node 6  failed node 9  failed node 10  failed node 11  failed node 15  failed node 30  failed
+ node 18  failed node 20  failed node 23  failed node 31  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 25 j 29
+
+i 25 j 30
+
+i 25 j 31
+
+i 25 j 32
+
+i 25 j 33
+
+i 25 j 34
+
+i 25 j 35
+
+i 25 j 36
+
+i 25 j 37
+
+i 25 j 38
+
+i 26 j 0
+
+i 26 j 1
+
+i 26 j 2
+
+i 26 j 3
+
+i 26 j 4
+
+i 26 j 5
+
+i 26 j 6
+
+i 26 j 7
+
+i 26 j 8
+
+i 26 j 9
+
+i 26 j 10
+
+i 26 j 11
+
+i 26 j 12
+
+i 26 j 13
+
+i 26 j 14
+
+i 26 j 15
+ node 16  failed
+ node 17  failed
+ node 2  failed
+ node 1  failed node 3  failed
+ node 0  failed node 4  failed node 13  failed node 24  failed node 29  failed
+ node 12  failed node 14  failed node 25  failed node 36  failed node 38  failed
+ node 8  failed node 9  failed node 11  failed node 27  failed node 28  failed
+ node 7  failed node 10  failed node 31  failed node 37  failed
+ node 5  failed node 6  failed
+ node 30  failed
+
+i 26 j 16
+
+i 26 j 17
+
+i 26 j 18
+
+i 26 j 19
+
+i 26 j 20
+
+i 26 j 21
+
+i 26 j 22
+
+i 26 j 23
+
+i 26 j 24
+
+i 26 j 25
+
+i 26 j 27
+
+i 26 j 28
+
+i 26 j 29
+
+i 26 j 30
+
+i 26 j 31
+
+i 26 j 32
+
+i 26 j 33
+
+i 26 j 34
+
+i 26 j 35
+
+i 26 j 36
+
+i 26 j 37
+
+i 26 j 38
+
+i 27 j 0
+
+i 27 j 1
+
+i 27 j 2
+
+i 27 j 3
+
+i 27 j 4
+
+i 27 j 5
+
+i 27 j 6
+
+i 27 j 7
+
+i 27 j 8
+
+i 27 j 9
+
+i 27 j 10
+
+i 27 j 11
+
+i 27 j 12
+
+i 27 j 13
+
+i 27 j 14
+
+i 27 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 28  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed node 37  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 27 j 16
+
+i 27 j 17
+
+i 27 j 18
+
+i 27 j 19
+
+i 27 j 20
+
+i 27 j 21
+
+i 27 j 22
+
+i 27 j 23
+
+i 27 j 24
+
+i 27 j 25
+ node 28  failed
+ node 37  failed
+
+i 27 j 26
+
+i 27 j 28
+
+i 27 j 29
+
+i 27 j 30
+
+i 27 j 31
+
+i 27 j 32
+
+i 27 j 33
+
+i 27 j 34
+
+i 27 j 35
+
+i 27 j 36
+
+i 27 j 37
+
+i 27 j 38
+
+i 28 j 0
+
+i 28 j 1
+
+i 28 j 2
+
+i 28 j 3
+
+i 28 j 4
+
+i 28 j 5
+
+i 28 j 6
+
+i 28 j 7
+
+i 28 j 8
+
+i 28 j 9
+
+i 28 j 10
+
+i 28 j 11
+
+i 28 j 12
+
+i 28 j 13
+
+i 28 j 14
+
+i 28 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 25  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed node 24  failed node 27  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 29  failed node 31  failed node 36  failed
+ node 6  failed node 30  failed node 38  failed
+ node 8  failed
+
+i 28 j 16
+
+i 28 j 17
+
+i 28 j 18
+
+i 28 j 19
+
+i 28 j 20
+
+i 28 j 21
+
+i 28 j 22
+
+i 28 j 23
+
+i 28 j 24
+
+i 28 j 25
+ node 27  failed node 37  failed
+
+i 28 j 26
+
+i 28 j 27
+
+i 28 j 29
+
+i 28 j 30
+
+i 28 j 31
+
+i 28 j 32
+
+i 28 j 33
+
+i 28 j 34
+
+i 28 j 35
+
+i 28 j 36
+
+i 28 j 37
+
+i 28 j 38
+
+i 29 j 0
+
+i 29 j 1
+
+i 29 j 2
+
+i 29 j 3
+
+i 29 j 4
+
+i 29 j 5
+
+i 29 j 6
+
+i 29 j 7
+
+i 29 j 8
+
+i 29 j 9
+
+i 29 j 10
+
+i 29 j 11
+
+i 29 j 12
+
+i 29 j 13
+
+i 29 j 14
+
+i 29 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 29 j 16
+
+i 29 j 17
+
+i 29 j 18
+
+i 29 j 19
+
+i 29 j 20
+
+i 29 j 21
+
+i 29 j 22
+
+i 29 j 23
+
+i 29 j 24
+
+i 29 j 25
+
+i 29 j 26
+
+i 29 j 27
+
+i 29 j 28
+
+i 29 j 30
+
+i 29 j 31
+
+i 29 j 32
+
+i 29 j 33
+
+i 29 j 34
+
+i 29 j 35
+
+i 29 j 36
+
+i 29 j 37
+
+i 29 j 38
+
+i 30 j 0
+
+i 30 j 1
+
+i 30 j 2
+
+i 30 j 3
+
+i 30 j 4
+
+i 30 j 5
+
+i 30 j 6
+
+i 30 j 7
+
+i 30 j 8
+
+i 30 j 9
+
+i 30 j 10
+
+i 30 j 11
+
+i 30 j 12
+
+i 30 j 13
+
+i 30 j 14
+
+i 30 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 30 j 16
+
+i 30 j 17
+
+i 30 j 18
+
+i 30 j 19
+
+i 30 j 20
+
+i 30 j 21
+
+i 30 j 22
+
+i 30 j 23
+
+i 30 j 24
+
+i 30 j 25
+
+i 30 j 26
+
+i 30 j 27
+
+i 30 j 28
+
+i 30 j 29
+
+i 30 j 31
+
+i 30 j 32
+
+i 30 j 33
+
+i 30 j 34
+
+i 30 j 35
+
+i 30 j 36
+
+i 30 j 37
+
+i 30 j 38
+
+i 31 j 0
+
+i 31 j 1
+
+i 31 j 2
+
+i 31 j 3
+
+i 31 j 4
+
+i 31 j 5
+
+i 31 j 6
+
+i 31 j 7
+
+i 31 j 8
+
+i 31 j 9
+
+i 31 j 10
+
+i 31 j 11
+
+i 31 j 12
+
+i 31 j 13
+
+i 31 j 14
+
+i 31 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 31 j 16
+
+i 31 j 17
+
+i 31 j 18
+
+i 31 j 19
+
+i 31 j 20
+
+i 31 j 21
+
+i 31 j 22
+
+i 31 j 23
+
+i 31 j 24
+
+i 31 j 25
+
+i 31 j 26
+
+i 31 j 27
+
+i 31 j 28
+
+i 31 j 29
+
+i 31 j 30
+
+i 31 j 32
+
+i 31 j 33
+
+i 31 j 34
+
+i 31 j 35
+
+i 31 j 36
+
+i 31 j 37
+
+i 31 j 38
+
+i 32 j 0
+
+i 32 j 1
+
+i 32 j 2
+
+i 32 j 3
+
+i 32 j 4
+
+i 32 j 5
+
+i 32 j 6
+
+i 32 j 7
+
+i 32 j 8
+
+i 32 j 9
+
+i 32 j 10
+
+i 32 j 11
+
+i 32 j 12
+
+i 32 j 13
+
+i 32 j 14
+
+i 32 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 32 j 16
+
+i 32 j 17
+
+i 32 j 18
+
+i 32 j 19
+
+i 32 j 20
+
+i 32 j 21
+
+i 32 j 22
+
+i 32 j 23
+
+i 32 j 24
+
+i 32 j 25
+
+i 32 j 26
+
+i 32 j 27
+
+i 32 j 28
+
+i 32 j 29
+
+i 32 j 30
+
+i 32 j 31
+
+i 32 j 33
+
+i 32 j 34
+
+i 32 j 35
+
+i 32 j 36
+
+i 32 j 37
+
+i 32 j 38
+
+i 33 j 0
+
+i 33 j 1
+
+i 33 j 2
+
+i 33 j 3
+
+i 33 j 4
+
+i 33 j 5
+
+i 33 j 6
+
+i 33 j 7
+
+i 33 j 8
+
+i 33 j 9
+
+i 33 j 10
+
+i 33 j 11
+
+i 33 j 12
+
+i 33 j 13
+
+i 33 j 14
+
+i 33 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 33 j 16
+
+i 33 j 17
+
+i 33 j 18
+
+i 33 j 19
+
+i 33 j 20
+
+i 33 j 21
+
+i 33 j 22
+
+i 33 j 23
+
+i 33 j 24
+
+i 33 j 25
+
+i 33 j 26
+
+i 33 j 27
+
+i 33 j 28
+
+i 33 j 29
+
+i 33 j 30
+
+i 33 j 31
+
+i 33 j 32
+
+i 33 j 34
+
+i 33 j 35
+
+i 33 j 36
+
+i 33 j 37
+
+i 33 j 38
+
+i 34 j 0
+
+i 34 j 1
+
+i 34 j 2
+
+i 34 j 3
+
+i 34 j 4
+
+i 34 j 5
+
+i 34 j 6
+
+i 34 j 7
+
+i 34 j 8
+
+i 34 j 9
+
+i 34 j 10
+
+i 34 j 11
+
+i 34 j 12
+
+i 34 j 13
+
+i 34 j 14
+
+i 34 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 34 j 16
+
+i 34 j 17
+
+i 34 j 18
+
+i 34 j 19
+
+i 34 j 20
+
+i 34 j 21
+
+i 34 j 22
+
+i 34 j 23
+
+i 34 j 24
+
+i 34 j 25
+
+i 34 j 26
+
+i 34 j 27
+
+i 34 j 28
+
+i 34 j 29
+
+i 34 j 30
+
+i 34 j 31
+
+i 34 j 32
+
+i 34 j 33
+
+i 34 j 35
+
+i 34 j 36
+
+i 34 j 37
+
+i 34 j 38
+
+i 35 j 0
+
+i 35 j 1
+
+i 35 j 2
+
+i 35 j 3
+
+i 35 j 4
+
+i 35 j 5
+
+i 35 j 6
+
+i 35 j 7
+
+i 35 j 8
+
+i 35 j 9
+
+i 35 j 10
+
+i 35 j 11
+
+i 35 j 12
+
+i 35 j 13
+
+i 35 j 14
+
+i 35 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 35 j 16
+
+i 35 j 17
+
+i 35 j 18
+
+i 35 j 19
+
+i 35 j 20
+
+i 35 j 21
+
+i 35 j 22
+
+i 35 j 23
+
+i 35 j 24
+
+i 35 j 25
+
+i 35 j 26
+
+i 35 j 27
+
+i 35 j 28
+
+i 35 j 29
+
+i 35 j 30
+
+i 35 j 31
+
+i 35 j 32
+
+i 35 j 33
+
+i 35 j 34
+
+i 35 j 36
+
+i 35 j 37
+
+i 35 j 38
+
+i 36 j 0
+
+i 36 j 1
+ node 24  failed
+ node 25  failed
+ node 26  failed node 27  failed node 28  failed
+ node 16  failed node 37  failed
+
+i 36 j 2
+
+i 36 j 3
+
+i 36 j 4
+
+i 36 j 5
+
+i 36 j 6
+
+i 36 j 7
+
+i 36 j 8
+
+i 36 j 9
+
+i 36 j 10
+
+i 36 j 11
+
+i 36 j 12
+
+i 36 j 13
+
+i 36 j 14
+
+i 36 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+ node 37  failed
+
+i 36 j 16
+
+i 36 j 17
+
+i 36 j 18
+
+i 36 j 19
+
+i 36 j 20
+
+i 36 j 21
+
+i 36 j 22
+
+i 36 j 23
+
+i 36 j 24
+
+i 36 j 25
+
+i 36 j 26
+
+i 36 j 27
+
+i 36 j 28
+
+i 36 j 29
+
+i 36 j 30
+
+i 36 j 31
+
+i 36 j 32
+
+i 36 j 33
+
+i 36 j 34
+
+i 36 j 35
+
+i 36 j 37
+
+i 36 j 38
+
+i 37 j 0
+
+i 37 j 1
+
+i 37 j 2
+
+i 37 j 3
+
+i 37 j 4
+
+i 37 j 5
+
+i 37 j 6
+
+i 37 j 7
+
+i 37 j 8
+
+i 37 j 9
+
+i 37 j 10
+
+i 37 j 11
+
+i 37 j 12
+
+i 37 j 13
+
+i 37 j 14
+
+i 37 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 25  failed node 30  failed node 36  failed node 38  failed
+ node 8  failed node 27  failed node 28  failed
+
+i 37 j 16
+
+i 37 j 17
+
+i 37 j 18
+
+i 37 j 19
+
+i 37 j 20
+
+i 37 j 21
+
+i 37 j 22
+
+i 37 j 23
+
+i 37 j 24
+
+i 37 j 25
+
+i 37 j 26
+
+i 37 j 27
+
+i 37 j 28
+
+i 37 j 29
+
+i 37 j 30
+
+i 37 j 31
+
+i 37 j 32
+
+i 37 j 33
+
+i 37 j 34
+
+i 37 j 35
+
+i 37 j 36
+
+i 37 j 38
+
+i 38 j 0
+ node 8  failed
+ node 7  failed
+ node 4  failed node 6  failed
+ node 3  failed node 5  failed
+ node 2  failed node 10  failed node 13  failed node 30  failed
+ node 1  failed node 9  failed node 11  failed node 12  failed node 14  failed
+ node 24  failed node 29  failed node 31  failed
+ node 25  failed node 36  failed
+ node 26  failed node 27  failed node 28  failed
+ node 16  failed node 37  failed
+ node 15  failed node 17  failed
+ node 18  failed node 20  failed node 23  failed
+ node 19  failed node 21  failed node 22  failed node 32  failed
+ node 33  failed node 34  failed node 35  failed
+
+i 38 j 1
+ node 0  failed
+
+i 38 j 2
+
+i 38 j 3
+
+i 38 j 4
+
+i 38 j 5
+
+i 38 j 6
+
+i 38 j 7
+ node 8  failed
+
+i 38 j 8
+ node 0  failed
+
+i 38 j 9
+
+i 38 j 10
+
+i 38 j 11
+
+i 38 j 12
+
+i 38 j 13
+
+i 38 j 14
+
+i 38 j 15
+ node 14  failed node 16  failed node 18  failed node 20  failed node 23  failed
+ node 13  failed node 17  failed node 19  failed node 21  failed node 22  failed node 26  failed node 32  failed
+ node 2  failed node 3  failed node 12  failed node 33  failed node 34  failed node 35  failed
+ node 1  failed node 4  failed node 9  failed node 11  failed
+ node 0  failed node 5  failed node 7  failed node 10  failed node 24  failed node 29  failed node 31  failed
+ node 6  failed node 8  failed node 25  failed node 30  failed node 36  failed
+ node 27  failed node 28  failed
+ node 37  failed
+
+i 38 j 16
+
+i 38 j 17
+
+i 38 j 18
+
+i 38 j 19
+
+i 38 j 20
+
+i 38 j 21
+
+i 38 j 22
+
+i 38 j 23
+
+i 38 j 24
+
+i 38 j 25
+
+i 38 j 26
+
+i 38 j 27
+
+i 38 j 28
+
+i 38 j 29
+
+i 38 j 30
+
+i 38 j 31
+
+i 38 j 32
+
+i 38 j 33
+
+i 38 j 34
+
+i 38 j 35
+
+i 38 j 36
+
+i 38 j 37
+
